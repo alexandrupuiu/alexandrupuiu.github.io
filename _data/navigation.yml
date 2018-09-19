@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: /about/
   - title: "Per Topic"
-    url: /PerTopic 
+    url: /PerTopic/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
