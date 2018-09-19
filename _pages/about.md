@@ -4,3 +4,5 @@ classes: wide
 title: "About me"
 permalink: /about/
 ---
+
+**ADD SOMETHING ABOUT YOU**
