@@ -1,11 +1,9 @@
 ---
 layout: single
 classes: wide
-title: "Per Topic"
 permalink: /PerTopic/
+title: "Per Topic"
 ---
-
-
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
@@ -16,4 +14,4 @@ permalink: /PerTopic/
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %}---
+{% endfor %}
