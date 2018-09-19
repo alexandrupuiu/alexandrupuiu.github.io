@@ -4,10 +4,6 @@ classes: wide
 permalink: /PerTopic/
 title: "Per Topic"
 author_profile: true
-header:
-  image: 
-  image_description: "Near Aachen, Germany"
-  caption: "Photo credit: [**Ohcapi**](https://ohcapi.com)"
 ---
 
 
