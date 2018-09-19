@@ -1,8 +1,6 @@
 ---
-title: "About me"
-permalink: /about/
-header:
-  image:"/images/desk.jpeg"
+title: "Resume"
+permalink: /Resume/
 ---
 
 **EDUCATION**
