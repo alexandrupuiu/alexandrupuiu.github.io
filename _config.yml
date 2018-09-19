@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "A.A.P."
-  avatar           : "/images/bio_photo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/desk.jpeg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research portfolio"
   location         : "RWTH Aachen, Germany"
   email            :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
